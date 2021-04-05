@@ -1,0 +1,15 @@
+{
+  "name": "netcat",
+  "version": "1.0.0",
+  "description": "Simplified port of netcat to js",
+  "main": "nc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Bennett <brian@zonename.org>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "bunyan": "^1.8.15",
+    "dashdash": "^2.0.0"
+  }
+}
